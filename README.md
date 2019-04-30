@@ -11,4 +11,20 @@ A model that provides a minimum number of shelves and shelf occupancy for a give
 
 [**Sudoku**](Sudoku)
 
-Solves any given as input given sudoku riddle using [constraint programming](https://developer.ibm.com/docloud/documentation/optimization-modeling/cp/).
+Solves any as input given sudoku riddle using [constraint programming](https://developer.ibm.com/docloud/documentation/optimization-modeling/cp/).
+<br />
+<br />
+[**SurgerySchedule**](SurgerySchedule)
+
+Creates a schedule of optional and emergency surgeries for a operating room using again constrain programming.
+<br />
+<br />
+[**Travelling Salesman Problem (TSP)**](TSP)
+
+Solves any given [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem) by using a [cutting-plane method](https://en.wikipedia.org/wiki/Cutting-plane_method).
+<br />
+<br />
+[**Travelling Salesman Problem with CP**](TSP_CP)
+
+Solves any given [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem) by using a constraint programming.
+
