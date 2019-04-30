@@ -29,5 +29,5 @@ Solves any given [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem
 
 [**Travelling Salesman Problem with CP**](TSP_CP)
 
-Solves any given [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem) by using a constraint programming.
+Solves any given [TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem) by using constraint programming.
 
