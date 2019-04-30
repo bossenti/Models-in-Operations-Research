@@ -1,0 +1,18 @@
+//number of different widths
+m = 5;
+	
+//shelf width
+W = 200;
+
+//possible widths
+width = [30, 70, 15.5, 22, 51.2];
+
+//demand 
+products = [56, 10, 48, 30, 17];
+
+//trivial patterns for start
+shelfAllocation = { <1,[6, 0, 0, 0, 0]>,
+<2,[0, 2, 0, 0, 0]>,
+<3,[0, 0, 12, 0, 0]>,
+<4,[0, 0, 0, 9, 0]>,
+<5,[0, 0, 0, 0, 3]> };
